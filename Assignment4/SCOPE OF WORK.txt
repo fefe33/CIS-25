@@ -1,0 +1,24 @@
+﻿:::: Scope of Work Document
+
+
+Scope of Work (SOW) -
+Build an application or add a unique twist on a common application. The application can be a game, a business support program, or robot to give a few examples. Projects should focus on creating C++ or Swift applications that utilize long-term data storage.
+Please submit your Scope of Work Document detailing the application you plan to complete.   You last assignment will implement your plan
+Student Project – Scope of Work (SOW)
+Project Title: Simple Journal App
+Student Name: Maurice Abbott
+Date: 7/24/2025
+________________
+
+
+1. Project Overview
+(Write 2–3 sentences about what your project will do.)
+I will be writing a simple journaling application. It will allow for users to create new notes and read/update/delete existing notes (ie CRUD). Saved notes will be persistent (saved in CSV format), and users will be able to output existing notes as text files. 
+**certain values may be reserved as journal commands (e.g. enter/exit)
+2. Features
+* Main menu
+* Create new note
+* Reference existing note for update/delete
+* Special commands while in editor
+* Output Journal as txt
+* Save/load notes from csv
